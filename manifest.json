@@ -1,0 +1,10 @@
+{
+  "id": "research-library-workflow",
+  "name": "Research Library Workflow",
+  "version": "0.1.1",
+  "minAppVersion": "1.12.7",
+  "description": "Organize papers, source-linked annotations, reusable mathematical results, questions and project review sheets.",
+  "author": "Haoyu",
+  "authorUrl": "https://github.com/Haoyu777777",
+  "isDesktopOnly": true
+}

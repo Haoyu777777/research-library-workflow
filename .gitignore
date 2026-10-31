@@ -1,0 +1,7 @@
+node_modules/
+dist/
+*.zip
+.obsidian/
+.env*
+.DS_Store
+local.config.json

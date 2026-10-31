@@ -1,0 +1,14 @@
+{
+  "name": "research-library-workflow",
+  "version": "0.1.1",
+  "private": true,
+  "description": "A source-linked mathematics research workflow for Obsidian.",
+  "license": "MIT",
+  "scripts": {
+    "build": "node scripts/build.cjs",
+    "test": "node --test tests/*.test.cjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
