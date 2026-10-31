@@ -1,0 +1,8 @@
+.research-search-controls { display:grid; grid-template-columns:repeat(auto-fit,minmax(120px,1fr)); gap:12px; margin:16px 0 24px; }
+.research-search-controls > div { min-width:0; }
+.research-search-controls > label { grid-column:1 / -1; }
+.research-search-controls > div:first-child { grid-column:1 / -1; }
+.research-search-controls label { display:block; font-size:.85em; margin-bottom:6px; color:var(--text-muted); }
+.research-search-controls input[type="search"], .research-search-controls select { width:100%; }
+.research-search-result details img { display:block; max-width:100%; margin-top:10px; background:white; border-radius:6px; }
+.research-search-result .research-statement { max-height:360px; }

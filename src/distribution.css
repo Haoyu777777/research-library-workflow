@@ -1,0 +1,5 @@
+/* Hide technical property panels only on rendered Research Library pages. */
+body.research-library-ui .markdown-preview-view:has(.block-language-research-library) .metadata-container,
+body.research-library-ui .markdown-preview-view:has(.block-language-research-library) .inline-title {
+ display:none;
+}
